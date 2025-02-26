@@ -39,11 +39,11 @@ header_pages: # Add links to pages you want to appear in the header navigation
   - talks.md
   - testimonials
 
-theme: jekyll-theme-terminal
+remote_theme: b2a3e8/jekyll-theme-console
 # Build settings
 plugins:
   - jekyll-feed
-theme: jekyll-theme-console
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
